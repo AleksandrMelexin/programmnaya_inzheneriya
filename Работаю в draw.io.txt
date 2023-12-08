@@ -1,0 +1,3 @@
+Работаю в draw.io
+Ссылка на скачивание https://github.com/jgraph/drawio-desktop/releases/download/v21.6.8/draw.io-21.6.8-windows-installer.exe
+файл можно открыть с помощью онлайн редактора https://app.diagrams.net/
